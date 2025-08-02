@@ -53,5 +53,10 @@
   },
   "prettier": {
     "singleQuote": true
+  },
+  "version": "16.5.1-lineaje-01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/zapier-platform"
   }
 }
